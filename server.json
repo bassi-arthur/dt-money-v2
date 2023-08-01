@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de um site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-06-18T21:32:53.324Z"
+    },
+    {
+      "id": 2,
+      "description": "Cerveja",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 150,
+      "createdAt": "2023-06-18T21:32:53.324Z"
+    },
+    {
+      "description": "teste",
+      "category": "teste",
+      "price": 50,
+      "type": "income",
+      "createdAt": "2023-06-19T02:26:50.850Z",
+      "id": 3
+    },
+    {
+      "description": "teste",
+      "category": "teste",
+      "price": 50,
+      "type": "income",
+      "createdAt": "2023-06-19T02:26:54.892Z",
+      "id": 4
+    },
+    {
+      "description": "mac book air m2",
+      "category": "Setup",
+      "price": 8000,
+      "type": "outcome",
+      "createdAt": "2023-06-19T02:38:04.623Z",
+      "id": 5
+    },
+    {
+      "description": "aniverssario arthur",
+      "category": "diverção",
+      "price": 200,
+      "type": "outcome",
+      "createdAt": "2023-06-19T23:15:10.576Z",
+      "id": 6
+    },
+    {
+      "description": "123",
+      "category": "123",
+      "price": 123,
+      "type": "income",
+      "createdAt": "2023-08-01T01:19:39.813Z",
+      "id": 7
+    },
+    {
+      "description": "123",
+      "category": "123",
+      "price": 123,
+      "type": "outcome",
+      "createdAt": "2023-08-01T01:19:50.574Z",
+      "id": 8
+    }
+  ]
+}
